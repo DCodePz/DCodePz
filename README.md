@@ -3,7 +3,7 @@ I'm a computer engineer with a strong passion for technology and creative proble
 
 ## 📁 Repositories:
 <details>
-  <summary>Proyectos importantes universidad</summary>
+  <summary>Significant University Projects</summary>
   <blockquote>
     <ul>
       <li><a href="https://github.com/DCodePz/TFG" target="_blank">TFG</a></li>
