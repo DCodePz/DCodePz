@@ -1,6 +1,15 @@
 # 💫 About Me:
 I'm a computer engineer with a strong passion for technology and creative problem-solving. I enjoy building personal projects that challenge me and help me grow as a developer. <br>Outside of tech, I serve as the director of a non-profit association, where I explore new programming approaches through various projects I develop for the organization.<br>I'm also deeply into music and video games.
 
+## 📁 Repositories:
+<details>
+  <summary>Proyectos importantes universidad</summary>
+  <blockquote>
+    <ul>
+      <li><a href="https://github.com/DCodePz/TFG" target="_blank">TFG</a></li>
+    </ul>
+  </blockquote>
+</details>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carrizoperezdaniel@gmail.com) 
