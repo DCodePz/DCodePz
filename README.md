@@ -15,9 +15,9 @@ I'm a computer engineer with a strong passion for technology and creative proble
   <blockquote>
     <ul>
       <li><a href="https://github.com/DCodePz/TFM" target="_blank">TFM</a></li>
-      <li><a href="https://github.com/DCodePz/Evolve-Proyecto-EDA" target="_blank">Proyecto EDA</a></li>
-      <li><a href="https://github.com/DCodePz/Evolve-Proyecto-SQL" target="_blank">Proyecto SQL</a></li>
-      <li><a href="https://github.com/DCodePz/Evolve-Proyecto-IA" target="_blank">Proyecto IA</a></li>
+      <li><a href="https://github.com/DCodePz/Evolve-Proyecto-EDA" target="_blank">Proyecto EDA (acceso restringido)</a></li>
+      <li><a href="https://github.com/DCodePz/Evolve-Proyecto-SQL" target="_blank">Proyecto SQL (acceso restringido)</a></li>
+      <li><a href="https://github.com/DCodePz/Evolve-Proyecto-IA" target="_blank">Proyecto IA (acceso restringido)</a></li>
     </ul>
   </blockquote>
 </details>
